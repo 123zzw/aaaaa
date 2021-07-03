@@ -1,0 +1,45 @@
+
+[
+  {
+    "code": "AD",
+    "emoji": "🇦🇩",
+    "unicode": "U+1F1E6 U+1F1E9",
+    "name": "和平区",
+    "title": "flag for Andorra",
+    "dialCode": "+376"
+  },
+  {
+    "code": "AE",
+    "emoji": "🇦🇪",
+    "unicode": "U+1F1E6 U+1F1EA",
+    "name": "大东区",
+    "title": "flag for United Arab Emirates",
+    "dialCode": "+971"
+  },
+ 
+  {
+    "code": "AG",
+    "emoji": "🇦🇬",
+    "unicode": "U+1F1E6 U+1F1EC",
+    "name": "沈北新区",
+    "title": "flag for Antigua and Barbuda",
+    "dialCode": "+1268"
+  },
+  {
+    "code": "AI",
+    "emoji": "🇦🇮",
+    "unicode": "U+1F1E6 U+1F1EE",
+    "name": "皇姑区",
+    "title": "flag for Anguilla",
+    "dialCode": "+1 264"
+  },
+   {
+    "code": "CN",
+    "emoji": "🇨🇳",
+    "unicode": "U+1F1E8 U+1F1F3",
+    "name": "沈河区",
+    "title": "flag for China",
+    "dialCode": "+86"
+  },
+  
+]
